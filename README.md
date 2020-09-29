@@ -1,4 +1,4 @@
-# 使用方法
+# 使用方法（自用packages 请勿Fork）
 
 
 添加 src-git test https://github.com/Beginner-Go/my-packages 到 OpenWRT源码根目录feeds.conf.default文件
